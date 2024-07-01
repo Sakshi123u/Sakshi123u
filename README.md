@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sakshi pandharkar</h1>
 <h3 align="center">A passionate developer from Pune.</h3>
-<img align="right" alt="Coding" width="600" src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg?size=626&ext=jpg&ga=GA1.1.1222169770.1702425600&semt=ais">
+<img align="center" alt="Coding" width="880" src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg?size=626&ext=jpg&ga=GA1.1.1222169770.1702425600&semt=ais">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi123u" alt="sakshi123u" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
